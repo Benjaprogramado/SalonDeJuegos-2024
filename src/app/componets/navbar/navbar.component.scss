@@ -1,0 +1,62 @@
+.navbar {
+    background-color: #007bff; /* Color de fondo del navbar */
+    color: #fff; /* Color del texto del navbar */
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 0; /* Asegura que el footer comience desde el borde izquierdo */
+    right: 0; /* Asegura que el footer termine en el borde derecho */
+}
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    padding: right 1px;
+}
+
+.navbar-nav .nav-link {
+    font-size: 18px;
+    padding: 8px 15px;
+}
+
+.navbar-nav .nav-link:hover {
+    background-color: #0056b3; /* Color de fondo al pasar el mouse */
+}
+.container {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3 {
+    color: #007bff; /* Azul brillante */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Azul brillante */
+    border-color: #007bff; /* Azul brillante */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Azul oscuro */
+    border-color: #0056b3; /* Azul oscuro */
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.form-control {
+    border-radius: 3px;
+}
+
+/* Estilos específicos para la temática de videojuegos */
+h1, h2, h3 {
+    font-family: 'Press Start 2P', cursive;
+}
+
+.div{
+    align-items: center;
+    
+}

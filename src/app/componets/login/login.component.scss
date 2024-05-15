@@ -1,0 +1,33 @@
+.container {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3 {
+    color: #007bff; /* Azul brillante */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Azul brillante */
+    border-color: #007bff; /* Azul brillante */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Azul oscuro */
+    border-color: #0056b3; /* Azul oscuro */
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.form-control {
+    border-radius: 3px;
+}
+
+/* Estilos específicos para la temática de videojuegos */
+h1, h2, h3 {
+    font-family: 'Press Start 2P', cursive;
+}
