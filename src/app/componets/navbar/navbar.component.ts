@@ -21,7 +21,9 @@ navegarAAbout() {
 navegarALogin() {
     this.router.navigate(['/login']);
 }
-
+navegarARegistry() {
+  this.router.navigate(['/registry']);
+}
 
 }
 
