@@ -7,4 +7,4 @@ export const environment =
     "authDomain": "saladejuegos-2024.firebaseapp.com",
     "messagingSenderId": "321908198090"
 }
-    ;
+;
